@@ -2,4 +2,4 @@
 
 # CodeStats
 
--> [Preview](http://codestats.myxotod.de)
+**[Preview](http://codestats.myxotod.de)**

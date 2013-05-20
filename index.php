@@ -8,9 +8,9 @@ system::init();
 	<head>
 		<title>Codestats.io &ndash; Stats or it did not happen</title>
 		<meta charset="utf-8" />
-		<link type="text/css" rel="stylesheet" media="all" href="template/css/style.css" />
-		<script type="text/javascript" src="template/js/jquery-1.9.1.min.js"></script>
-		<script type="text/javascript" src="template/js/functions.js"></script>
+		<link type="text/css" rel="stylesheet" media="all" href="assets/css/style.css" />
+		<script type="text/javascript" src="assets/js/jquery-1.9.1.min.js"></script>
+		<script type="text/javascript" src="assets/js/functions.js"></script>
 	</head>
 	<body>
 		<?php
